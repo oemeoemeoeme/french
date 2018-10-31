@@ -1402,6 +1402,18 @@ body {
 .cid-r8645cYxBj .mbr-section-title {
   text-align: left;
 }
+.cid-r868QjYMYF {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #0f7699, #4f4943);
+}
+.cid-r868QjYMYF .mbr-iconfont-social {
+  font-size: 32px;
+  color: #232323;
+}
+.cid-r868QjYMYF .social-list a:focus {
+  text-decoration: none;
+}
 .cid-r84V5Yue7l {
   background: linear-gradient(45deg, #f4a997, #073b4c);
 }
